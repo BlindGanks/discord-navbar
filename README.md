@@ -1,9 +1,13 @@
-# Getting Started
+# Usage
 
-### `npm install`
+### Install dependencies
 
-This installs all the dependencies you need in order to run the app.
+This installs all the dependencies you need in order to run the app
 
-### `configure Tailwind CSS`
+```
+npm install
+```
 
-Check out Tailwind CSS [installation](https://facebook.github.io/create-react-app/docs/running-tests) steps on their official website.
+### Install Tailwind CSS
+
+Check out Tailwind CSS [installation](https://facebook.github.io/create-react-app/docs/running-tests) steps on their official website
