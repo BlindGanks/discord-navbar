@@ -10,4 +10,4 @@ npm install
 
 ### Install Tailwind CSS
 
-Check out Tailwind CSS [installation](https://facebook.github.io/create-react-app/docs/running-tests) steps on their official website
+Check out Tailwind CSS [installation](https://tailwindcss.com/docs/installation) steps on their official website
