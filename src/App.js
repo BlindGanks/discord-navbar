@@ -1,9 +1,9 @@
-import Sidebar from "./Sidebar";
+import Navbar from "./Navbar";
 
 function App() {
   return (
     <div className="flex">
-      <Sidebar />
+      <Navbar />
     </div>
   );
 }
